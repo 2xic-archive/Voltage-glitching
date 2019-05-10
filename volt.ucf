@@ -1,0 +1,23 @@
+
+NET "clk" 				LOC = "P21";
+NET "power" LOC = "P84";
+
+net "GLITCH" 				LOC = "P133";
+net "DOWN" 				LOC = "P131";
+net "UP" 				LOC = "P132";
+
+//NET "ano" LOC="P85";
+NET "ANODE[3]" 			LOC = "P112";
+NET "ANODE[2]" 			LOC = "P111";
+NET "ANODE[1]" 			LOC = "P127";
+NET "ANODE[0]" 			LOC = "P126";
+
+NET "CATODE[6]" 			LOC = "P116";
+NET "CATODE[5]" 			LOC = "P114";
+NET "CATODE[4]" 			LOC = "P117";
+NET "CATODE[3]" 			LOC = "P118";
+NET "CATODE[2]" 			LOC = "P119";
+NET "CATODE[1]" 			LOC = "P121";
+NET "CATODE[0]" 			LOC = "P115";
+
+
